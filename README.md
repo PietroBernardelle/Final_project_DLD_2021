@@ -1,1 +1,3 @@
-# Final_project_DLD_2021
+# Final project: Digital Logic Design.
+
+## Requirements
