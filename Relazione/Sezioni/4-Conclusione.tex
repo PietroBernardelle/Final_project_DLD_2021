@@ -1,0 +1,18 @@
+\newpage
+\section{Conclusioni}
+\label{Conclusione}
+É stato osservato che il componente si comporta in maniera corretta dopo averlo sottoposto ad una notevole quantitá di casi di test, sia in simulazioni Pre-Synthesis che in Functional-Post-Synthesis. Possiamo quindi supporre con buon livello di confidenza che il componente è esente da errori di natura progettuale.
+
+Abbiamo inoltre analizzato il report temporale prodotto dalla Post-Synthesis osservando i seguenti risultati:
+
+\begin{itemize}
+    \item Data Path Delay:  5.304 [ns]   (37.406\% Logico e 62.594\% di Routing)
+    \item Requirement:  100.000 [ns] 
+    \item Slack (MET):  94.545 [ns] 
+\end{itemize}
+
+Dai dati sopra riportati ci é possibile dedurre che il componente potrebbe funzionare ad una frequenza decisamente maggiore rispetto a quella imposta in quanto lo Slack compone la quasi totalitá del ciclo di clock.
+É stato possibile ottenere questo risultato optando per una soluzione con un maggior numero di registri; questo ha permesso di suddividere le operazioni su più cicli di clock, consentendo dunque di ridurre il tempo di lavoro nel singolo ciclo del componente.
+
+
+
