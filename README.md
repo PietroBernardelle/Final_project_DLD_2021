@@ -17,4 +17,5 @@ Un esempio di funzionamento del componente è mostrato in figura dove il blocco 
 indirizzi da cui vuole leggere o su cui vuole scrivere (freccia nera), legge il valore dei pixel (frecce
 rosse), applica l’algoritmo e scrive in uscita i valori sulla memoria (frecce blu).
 L’indirizzo x rappresenta il primo indirizzo di memoria nel quale si andrá a memorizzare l’immagine.
-![elaboratore](https://user-images.githubusercontent.com/62955439/112978638-e2e87700-9157-11eb-88cd-522777e487e6.jpg)
+
+![elaboratore](https://user-images.githubusercontent.com/62955439/112978638-e2e87700-9157-11eb-88cd-522777e487e6.jpg =100x20)
