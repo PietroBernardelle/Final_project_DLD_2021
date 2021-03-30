@@ -22,3 +22,4 @@ L’indirizzo x rappresenta il primo indirizzo di memoria nel quale si andrá a 
 
 <img src="https://user-images.githubusercontent.com/62955439/112978638-e2e87700-9157-11eb-88cd-522777e487e6.jpg" width="400" height="400" />
 
+Further documentation can be found in the `report` file under `docs/` directory.
