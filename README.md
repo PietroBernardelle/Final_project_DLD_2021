@@ -18,4 +18,4 @@ indirizzi da cui vuole leggere o su cui vuole scrivere (freccia nera), legge il 
 rosse), applica l’algoritmo e scrive in uscita i valori sulla memoria (frecce blu).
 L’indirizzo x rappresenta il primo indirizzo di memoria nel quale si andrá a memorizzare l’immagine.
 
-![](https://user-images.githubusercontent.com/62955439/112978638-e2e87700-9157-11eb-88cd-522777e487e6.jpg =100x20)
+![elaborate](https://user-images.githubusercontent.com/62955439/112978638-e2e87700-9157-11eb-88cd-522777e487e6.jpg)
