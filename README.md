@@ -9,7 +9,8 @@ un valore compreso tra 0 e 255 che indica la quantitá di bianco presente) per r
 maniera piú equa la composizione dell’istogramma.
 
 
-# 
+# General specifications
+
 L’immagine è letta sequenzialmente da memoria, dove si trova memorizzata come mostrato in figura.
 Ogni pixel dell’immagine è trasformato per mezzo dell’algoritmo fornito e riscritto in memoria a
 partire dalla prima cella disponibile.
