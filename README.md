@@ -26,8 +26,8 @@ L’indirizzo x rappresenta il primo indirizzo di memoria nel quale si andrá a 
 ## Data 
 Le dimensioni dell’immagine , ciascuna di dimensione di 8 bit, sono memorizzati in una
 memoria con indirizzamento al Byte partendo dalla posizione 0: il byte in posizione 0 si
-riferisce al numero di colonne (`N-COL`), il byte in posizione 1 si riferisce al numero di righe
-(`N-RIG`).
+riferisce al numero di colonne (N-COL), il byte in posizione 1 si riferisce al numero di righe
+(N-RIG).
 I pixel del’immagine , ciascuno di un 8 bit, sono memorizzati in memoria con indirizzamento
 al Byte partendo dalla posizione 2.
 I pixel della immagine equalizzata , ciascuno di un 8 bit, sono memorizzati in memoria con
