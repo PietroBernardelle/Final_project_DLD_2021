@@ -9,7 +9,7 @@ un valore compreso tra 0 e 255 che indica la quantitá di bianco presente) per r
 maniera piú equa la composizione dell’istogramma.
 
 
-### General specifications
+## General specifications
 
 L’immagine è letta sequenzialmente da memoria, dove si trova memorizzata come mostrato in figura.
 Ogni pixel dell’immagine è trasformato per mezzo dell’algoritmo fornito e riscritto in memoria a
@@ -22,4 +22,5 @@ L’indirizzo x rappresenta il primo indirizzo di memoria nel quale si andrá a 
 
 <img src="https://user-images.githubusercontent.com/62955439/112978638-e2e87700-9157-11eb-88cd-522777e487e6.jpg" width="400" height="400" />
 
-Further documentation can be found in the `report` file under `docs/` directory.
+
+La documentazione completa puó essere trovata nel file `report`.
