@@ -23,4 +23,15 @@ L’indirizzo x rappresenta il primo indirizzo di memoria nel quale si andrá a 
 <img src="https://user-images.githubusercontent.com/62955439/112978638-e2e87700-9157-11eb-88cd-522777e487e6.jpg" width="400" height="400" />
 
 
+## Data 
+Le dimensioni dell’immagine , ciascuna di dimensione di 8 bit, sono memorizzati in una
+memoria con indirizzamento al Byte partendo dalla posizione 0: il byte in posizione 0 si
+riferisce al numero di colonne (`N-COL`), il byte in posizione 1 si riferisce al numero di righe
+(`N-RIG`).
+I pixel del’immagine , ciascuno di un 8 bit, sono memorizzati in memoria con indirizzamento
+al Byte partendo dalla posizione 2.
+I pixel della immagine equalizzata , ciascuno di un 8 bit, sono memorizzati in memoria con
+indirizzamento al Byte partendo dalla posizione 2+(N-COL*N-RIG) .
+
+
 La documentazione completa puó essere trovata nel file `Final Report DDL` della cartella `Relazione/`.
