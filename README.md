@@ -10,10 +10,11 @@ un valore compreso tra 0 e 255 che indica la quantitá di bianco presente) per r
 maniera piú equa la composizione dell’istogramma.
 
 
+# 
 L’immagine è letta sequenzialmente da memoria, dove si trova memorizzata come mostrato in figura.
 Ogni pixel dell’immagine è trasformato per mezzo dell’algoritmo fornito e riscritto in memoria a
 partire dalla prima cella disponibile.
-Un esempio di funzionamento del componente è mostrato in figura dove il blocco "Elaboratore"
+Un esempio di funzionamento del componente è mostrato di seguito dove il blocco "Elaboratore"
 è quello realizzato dalla entity "project_reti_logiche". Il modulo comunica alla memoria gli
 indirizzi da cui vuole leggere o su cui vuole scrivere (freccia nera), legge il valore dei pixel (frecce
 rosse), applica l’algoritmo e scrive in uscita i valori sulla memoria (frecce blu).
