@@ -1,5 +1,5 @@
 # Final project: Digital Logic Design.
-One of the three final projects: Algorithm and Principles of Computer, Digital Logic Design and Software Engineering, that concur to the final bachelor mark in "Engineering of Computing Systems" at **Politecnico di Milano**.
+One of the three final projects: Algorithm and Principles of Computer Science, Digital Logic Design and Software Engineering, that concur to the final bachelor mark in "Engineering of Computing Systems" at **Politecnico di Milano**.
 
 **Teacher** : William Fornaciari 
 **Assistant** : Federico Terraneo 
