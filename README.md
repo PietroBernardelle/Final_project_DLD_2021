@@ -1,5 +1,5 @@
 # Final project: Digital Logic Design.
-One of the three final projects: Algorithm and Principles of Computer Science, Digital Logic Design and Software Engineering, that concur to the final bachelor mark in "Engineering of Computing Systems" at **Politecnico di Milano**.
+One of the three final projects (Algorithm and Principles of Computer Science, Digital Logic Design and Software Engineering) that concur to the final bachelor mark in "Engineering of Computing Systems" at **Politecnico di Milano**.
 
 **Teacher** : William Fornaciari
 
@@ -16,7 +16,7 @@ un valore compreso tra 0 e 255 che indica la quantitá di bianco presente) per r
 maniera piú equa la composizione dell’istogramma.
 
 
-## General specifications
+## General specification
 
 L’immagine è letta sequenzialmente da memoria, dove si trova memorizzata come mostrato in figura.
 Ogni pixel dell’immagine è trasformato per mezzo dell’algoritmo fornito e riscritto in memoria a
