@@ -7,6 +7,11 @@ One of the three final projects (Algorithm and Principles of Computer Science, D
 
 **Final Score** : 30/30 
 
+
+
+**Full documentation (in italian) can be found in `Final Report DDL` file under `Relazione/` folder.**
+**`` for VHDL code.**
+
 ## Requirements
 
 Lo scopo del progetto é quello di realizzare un equalizzatore di immagini in bianco e nero, ovvero un 
@@ -40,5 +45,3 @@ al Byte partendo dalla posizione 2.
 I pixel della immagine equalizzata , ciascuno di un 8 bit, sono memorizzati in memoria con
 indirizzamento al Byte partendo dalla posizione 2+(N-COL*N-RIG) .
 
-
-**La documentazione completa puó essere trovata nel file `Final Report DDL` della cartella `Relazione/`.**
