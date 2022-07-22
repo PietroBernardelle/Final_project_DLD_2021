@@ -9,8 +9,8 @@ One of the three final projects (Algorithm and Principles of Computer Science, D
 
 
 
-**Full documentation (in italian) can be found in `Final Report DDL` file under `Relazione/` folder.**
-**`` for VHDL code.**
+**Full documentation (in italian) available [here](https://github.com/PietroBernardelle/Final_project_DLD_2021/blob/main/Relazione/Final%20Report%20DDL.pdf).**<br>
+**If you want to take a look at the code check `DLD.vhd` file.**
 
 ## Requirements
 
